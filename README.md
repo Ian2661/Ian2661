@@ -1,4 +1,4 @@
-Hola, soy Ian 👋
+## Hola, soy Ian 👋
 
 Estudiante de 2º de ASIX. Me estoy metiendo en ciberseguridad, scripting 
 y virtualización de servidores — todavía aprendiendo, pero ya montando 
